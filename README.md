@@ -1,2 +1,2 @@
-# Run-100-m
-Run 100 m application page
+# Spotty Finder
+Spotty Finder application page
