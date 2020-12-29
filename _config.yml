@@ -1,7 +1,7 @@
-title: Run 100 M
-description: Run 100 m application allows you to measure your time for a 100 meters run.
-baseurl: "/Run-100-m"
-url: "http://timurtatarshaov.me"
+title: Spotty Finder
+description: Spotty Finder is an application that allows you to track your locations.
+baseurl: "/spotty-finder"
+url: "https://famer.github.io"
 
 # Build settings
 markdown: kramdown
