@@ -1,0 +1,10 @@
+title: Run 100 M
+description: Run 100 m application allows you to measure your time for a 100 meters run.
+baseurl: "/Run-100-m"
+url: "http://timurtatarshaov.me"
+
+# Build settings
+markdown: kramdown
+
+#sass:
+#  style: compressed
