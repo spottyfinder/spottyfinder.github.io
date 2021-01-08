@@ -1,7 +1,7 @@
 title: Spotty Finder
 description: Spotty Finder is an application that allows you to track your locations.
-baseurl: "/spotty-finder"
-url: "https://famer.github.io"
+baseurl: "/"
+url: "http://spottyfinder.github.io"
 
 # Build settings
 markdown: kramdown
