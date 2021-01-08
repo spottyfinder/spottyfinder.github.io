@@ -1,9 +1,11 @@
 {
     "applinks": {
         "apps": [],
-        "details": [{
-            "appID": "YU2L9F6J7Q.com.timurtatarshaov.Spotty-finder-3",
-            "paths": ["/share/*"]
-        }]
+        "details": [
+            {
+                "appID": "YU2L9F6J7Q.com.timurtatarshaov.Spotty-finder-3",
+                "paths": ["/share/*"]
+            }
+        ]
     }
 }
