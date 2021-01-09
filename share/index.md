@@ -15,7 +15,7 @@ appStoreLink: https://apps.apple.com/us/app/spotty-finder-3/id1544623406
 
 <center>
 	<video width="100%" autoplay loop class="iphone-6 silver">
-	  <source src="assets/RPReplay_Final1609182628.mov" type="video/mp4" />
+	  <source src="{{ site.baseurl }}/assets/RPReplay_Final1609182628.mov" type="video/mp4" />
 		Video is not supported
 	</video>
 </center>
