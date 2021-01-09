@@ -9,7 +9,7 @@ appStoreLink: https://apps.apple.com/us/app/spotty-finder-3/id1544623406
 
 <center itemscope itemtype="http://schema.org/SoftwareApplication">
   <h1 itemprop="name">Spotty Finder</h1>
-  <img itemprop="image" src="{{ site.baseurl }}/assets/icons/Icon_1024_2.png" alt="Spotty Finder 3 application icon"/><br /><br />
+  <img width="150px" itemprop="image" src="{{ site.baseurl }}/assets/icons/Icon_1024_2.png" alt="Spotty Finder 3 application icon"/><br /><br />
   <a itemprop="url" content="{{ page.appStoreLink }}" href="{{ page.appStoreLink }}"><img style="width:135px" src="{{ site.baseurl }}/assets/app_store_badges/apple_app_store_us-uk_135x40.png" /></a>
 </center>
 
