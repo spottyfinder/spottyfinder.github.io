@@ -1,7 +1,7 @@
 ---
 layout: page
 #title: Run 100 m
-permalink: /share1/
+permalink: share1/
 appStoreLink: https://apps.apple.com/us/app/spotty-finder-3/id1544623406
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/device.css">
